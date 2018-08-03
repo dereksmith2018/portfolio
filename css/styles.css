@@ -2,43 +2,38 @@ body{
   background-color: #cce6ff;
 }
 
-.column{
-
+.head{
+border-top: solid;
+border: color#008066
 }
 
-.left-panel{
-
+.title{
+text-align: center;
 }
 
 h1{
-font-weight: bold;
-font-style: italic;
-font-family: sans-serif;
-
+  font-weight: bold;
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: center;
+  color: #008066
 }
 
 h2{
-font-weight: bold;
-font-style: italic;
-font-family: sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-family: sans-serif;
+  color: #008066
 }
 
 h3{
 
 }
 
-blockquote{
-display: block;
-margin-top: 1em;
-margin-bottom: 1em;
-margin-left: 40px;
-margin-right: 40px;
-}
-
 .saying{
-font-style: italic;
-font-size: small;
-border-left: 10px solid #008066;
+  font-style: italic;
+  font-size: small;
+  border-left: 5px solid #008066;
 }
 
 span{
@@ -47,4 +42,15 @@ span{
 
 .rightfloat{
   float: right;
+}
+
+.column{
+  padding: 10px;
+  border: 2px solid #008066;
+  margin: 5px;
+  position:relative;
+}
+
+.column1{
+
 }
