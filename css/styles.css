@@ -26,8 +26,8 @@ h2{
   color: #008066
 }
 
-h3{
-
+header{
+font-weight: bold;
 }
 
 .saying{
@@ -41,7 +41,7 @@ span{
 }
 
 .rightfloat{
-  float: right;
+float: right;
 }
 
 .column{
