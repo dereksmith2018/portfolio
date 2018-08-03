@@ -1,29 +1,50 @@
 body{
-  background-color: #80dfff
+  background-color: #cce6ff;
 }
 
 .column{
 
 }
 
-h1{
+.left-panel{
 
+}
+
+h1{
+font-weight: bold;
+font-style: italic;
+font-family: sans-serif;
 
 }
 
 h2{
-
+font-weight: bold;
+font-style: italic;
+font-family: sans-serif;
 }
 
 h3{
 
 }
 
+blockquote{
+display: block;
+margin-top: 1em;
+margin-bottom: 1em;
+margin-left: 40px;
+margin-right: 40px;
+}
+
 .saying{
-text-align: left;
-font-weight: bold;
 font-style: italic;
-border: 10px;
-border-width: medium;
-color: black;
+font-size: small;
+border-left: 10px solid #008066;
+}
+
+span{
+  font-weight: bold;
+}
+
+.rightfloat{
+  float: right;
 }
