@@ -6,9 +6,18 @@ body{
 border-top: solid;
 border: color#008066
 }
-
 .title{
 text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px; height: 280px;
+  image-orientation: center;
+
+
 }
 
 h1{
@@ -21,6 +30,7 @@ h1{
 }
 
 h2{
+  text-align: center;
   font-weight: bold;
   font-style: italic;
   font-family: sans-serif;
@@ -39,19 +49,4 @@ font-weight: bold;
 
 span{
   font-weight: bold;
-}
-
-.rightfloat{
-float: right;
-}
-
-.column{
-  padding: 10px;
-  border: 2px solid #008066;
-  margin: 5px;
-  position:relative;
-}
-
-.column1{
-
 }
