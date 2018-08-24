@@ -18,9 +18,10 @@ First basic portfolio page
 
 -Link inputs
 
-####Can be found at https://github.com/dereksmith2018/portfolio.git for clone
+###Can be found at:
+https://github.com/dereksmith2018/portfolio.git
 
-### used
+### Used
 -html
 
 -atom
@@ -31,6 +32,7 @@ First basic portfolio page
 
 -bootstrap
 
-###Support: contact or follow me on github dereksmith2018
+###Support:
+Contact or follow me on github dereksmith2018
 
 ### Copyright to Derek Smith
