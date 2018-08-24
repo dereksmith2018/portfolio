@@ -2,16 +2,25 @@
 By Derek Smith
 
 ## made by dereksmith2018 (github)
+Description:
+First basic portfolio page
 
-## shows what students have learned from week 1, at epicodus
-  Has columns and images using html and css.
-  Shows img and links to Email
-- basic webpage format showing information about me. has 3 major sections. first is the header, includes img title and about me section. second is the job history and education. last is references. 
+Web display:
+shows what students have learned from week 1, at Epicodus
+Columns
+Css
+image inputs
+link inputs
+-
+can be found at https://github.com/dereksmith2018/portfolio.git for clone
 
 ### used
 html
 atom
 github
 plnkr.co
+bootstrap
 
-### License Derek Smith
+support: contact or follow me on github dereksmith2018
+
+### Copyright to Derek Smith
