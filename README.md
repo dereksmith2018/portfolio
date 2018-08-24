@@ -2,11 +2,11 @@
 By Derek Smith
 
 
-##Description:
+## Description:
 
 First basic portfolio page
 
-###Web display:
+### Web display:
 
 -Shows what students have learned from week 1, at Epicodus
 
